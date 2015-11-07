@@ -1,6 +1,6 @@
 {
   "name": "eventlang-reduce",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Reduce EventLang to YAML",
   "main": "index.js",
   "scripts": {
