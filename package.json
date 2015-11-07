@@ -1,0 +1,25 @@
+{
+  "name": "eventlang-reduce",
+  "version": "0.0.0",
+  "description": "Reduce EventLang to YAML",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/adius/eventlang-reduce"
+  },
+  "keywords": [
+    "eventlang"
+  ],
+  "author": "Adrian Sieber",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.4.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
