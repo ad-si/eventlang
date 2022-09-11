@@ -62,3 +62,12 @@ title: Buy 3 bottles of milk
 priority: high
 completed: true
 ```
+
+
+# Related
+
+- [JSON Patch RFC](https://www.rfc-editor.org/rfc/rfc6902) -
+    Format for describing changes to a JSON document.
+    ([jsonpatch.com](https://jsonpatch.com))
+- [JSON Merge Patch RFC](https://www.rfc-editor.org/rfc/rfc7396) -
+    Describing a set of modifications to a target resource's content.
