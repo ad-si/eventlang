@@ -1,6 +1,6 @@
 # EventLang Reduce
 
-Reduces an [EventLang](github.com/adius/eventlang) string
+Reduces an [EventLang](github.com/ad-si/eventlang) string
 to a Javascript object.
 
 
